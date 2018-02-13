@@ -3,6 +3,7 @@
 ![General solutions get you a 50% tip.](img/np_complete.png)
 
 **Explanation**
+
 Another entry in the ["My Hobby"](https://www.explainxkcd.com/wiki/index.php/My_Hobby) series of comics. [Cueball](https://www.explainxkcd.com/wiki/index.php/Cueball) is embedding [NP-complete problems](https://en.wikipedia.org/wiki/NP-completeness) in restaurant orders. Specifically, he is ordering appetizers not by explicitly stating the names, but by the total price of them all. This is a simplified example of the [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem). This is a problem in combinatorial optimization, as follows: If you have a knapsack (backpack or rucksack) that can hold a specific amount of weight, and you have a set of items, each with its own assigned value and weight, you have to select items to put into the knapsack so that the weight does not exceed the capacity of the knapsack, and the combined value of all the items is maximized.
 
 In [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory), NP stands for "nondeterministic polynomial time," which means that problems that are NP take polynomial running time (i.e. the time a CPU would take to run the program would be polynomial in the input size) to verify a solution, but it is unknown whether finding any or all solutions can be done in polynomial time. Polynomial time is considered efficient; exponential and higher times are considered unfeasible for computation. NP-complete problems are ones that, if a polynomial time algorithm is found for any of them, then all NP problems have polynomial time solutions. In short, particular guesses in NP-complete problems can be checked easily, but systematically finding solutions is far more difficult.
@@ -19,6 +20,7 @@ A combination of two orders of hot wings, one order of mixed fruit, and one samp
 Seven mixed fruit orders (this solution was not intended - see trivia below)
 
 **Trivia**
+
 - "Chotchkies" (slightly misspelt) is Yiddish slang for little accessories and trinkets. It is also the name of the restaurant in the 1999 Mike Judge-directed comedy Office Space.
 - In an [interview](https://www.maa.org/press/periodicals/math-horizons/the-mathematics-behind-xkcd-a-conversation-with-randall-munroe-0) with the Mathematical Association of America, Randall said that the trivial answer to this problem was a mistake.
 
