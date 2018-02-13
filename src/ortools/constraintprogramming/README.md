@@ -1,6 +1,6 @@
 # 287: NP-Complete
 
-![General solutions get you a 50% tip.](https://xkcd.com/287/)
+![General solutions get you a 50% tip.](img/np_complete.png)
 
 **Explanation**
 
