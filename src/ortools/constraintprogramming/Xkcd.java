@@ -1,4 +1,4 @@
-package ortools;
+package ortools.constraintprogramming;
 
 import com.google.ortools.constraintsolver.DecisionBuilder;
 import com.google.ortools.constraintsolver.IntVar;
