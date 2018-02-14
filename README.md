@@ -1,2 +1,2 @@
 # optimization-problems
-Operational research algorithms for NP problems
+Monte Carlo methods and Operational Research for combinatorial optimization
