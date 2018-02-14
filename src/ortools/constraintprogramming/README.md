@@ -22,6 +22,6 @@ Two classic CP problems are the [N-queens problem](https://developers.google.com
 
 ---
 
-_Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+*Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
 
-Last updated May 2, 2017._
+Last updated May 2, 2017.*
