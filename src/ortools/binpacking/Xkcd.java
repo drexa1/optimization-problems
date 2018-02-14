@@ -1,18 +1,18 @@
-package ortools.constraintprogramming;
+package ortools.binpacking;
 
 import com.google.ortools.constraintsolver.DecisionBuilder;
 import com.google.ortools.constraintsolver.IntVar;
 import com.google.ortools.constraintsolver.Solver;
 
-/**
- * Solves https://xkcd.com/287/
- */
 public class Xkcd {
 
   static {
     System.loadLibrary("jniortools");
   }
 
+  /**
+   * Solves https://xkcd.com/287/
+   */
   private static void solve() {
 
     Solver solver = new Solver("Xkcd");
