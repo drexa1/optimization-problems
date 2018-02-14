@@ -5,6 +5,6 @@ One of the most common bin packing problems is [knapsacks](https://developers.go
 
 ---
 
-_Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+_Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates._
 
-Last updated February 21, 2017._
+_Last updated February 21, 2017._

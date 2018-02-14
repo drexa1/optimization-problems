@@ -27,6 +27,6 @@ We should add that there are other solvers, such as [Concorde](http://www.math.u
 
 ---
 
-_Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+_Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates._
 
-Last updated May 2, 2017._
+_Last updated May 2, 2017._
